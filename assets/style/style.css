@@ -1,3 +1,18 @@
+*{
+  margin: 0;
+  padding: 0;
+  border: 2px solid;
+}
+
 body{
-  background-color: red;
+  background-color: rgba(255, 255, 10, 0.5);
+}
+
+#navbar{
+  /* display: flex; */
+  text-align: center;
+}
+ul>li{
+  display: inline;
+  
 }
