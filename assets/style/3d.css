@@ -108,7 +108,7 @@ main {
 }
 
 .tag-box {
-  position: relative;
+  position: absolute;
   width: 18rem;
   height: 2.5rem;
   border-radius: 50px;
